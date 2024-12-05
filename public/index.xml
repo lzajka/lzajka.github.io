@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lzajka</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lzajka</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 19:51:40 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 05 Dec 2024 19:51:40 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post on my website.&lt;br&gt;&#xA;I&amp;rsquo;ve bought this domain a few years back. It stayed empty because I had no idea what to put here.&lt;br&gt;&#xA;Today, I decided to make it more interesting and finally add something. This is my first website, made using Hugo!&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve tried making websites using NodeJS, Flutter, and other tools, but I&amp;rsquo;m not the best when it comes to UI design.&lt;br&gt;&#xA;Fortunately, I stumbled upon this tool called &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. All I need to do is write markdown files!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
