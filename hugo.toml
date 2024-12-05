@@ -1,0 +1,4 @@
+baseURL = 'https://lzajka.com'
+languageCode = 'en-us'
+title = 'Lzajka'
+theme = 'ananke'
